@@ -142,7 +142,7 @@
 </template>
 
 <script>
-import logo from '@/static/logo/logo.png'
+import logo from '@/static/logo/logo_sak.png'
 
 export default {
   async asyncData ({ isDev, route, store, env, params, query, req, res, redirect, error }) {
