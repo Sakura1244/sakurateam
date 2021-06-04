@@ -39,18 +39,18 @@
             <v-card-title class="title-container justify-center justify-md-start" primary-title>
               <div>
                 <h2 class="text-h5 text-lg-h4 text-truncate">
-                  「 KireiHana <span>Team 」</span>
+                  「 Sakura <span>Editors 」</span>
                 </h2>
               </div>
             </v-card-title>
             <v-card-text class="text-center text-md-left">
               <div class="text-container px-2 px-md-6">
                 <p>
-                  Known as 綺麗花/Kireihana/ is an AMV Team from Indonesia.
+                  桜/Sakura/ is an Editing team dedicated for creating inspiring Art.
                   <br>
-                  as in Indonesia Means "Bunga yang indah"
+                  Team Lead: Sakuratree ツ
                 </p>
-                <p>this team was created because the leader himself really like <b>“Hanami Season”</b> or <b>“Cherry Blossom Viewing”</b>, The pops of pink mark the ending of winter and signify the beginning of spring. Due to their quick blooming season, cherry blossoms also symbolize the transience of life</p>
+                <p>AMVS | MMVS | Edits | Design | Art | Effects</p>
               </div>
               <div class="mt-8 mx-4">
                 <template v-for="(social, index) in links">
@@ -128,8 +128,8 @@ import {
   KinesisContainer,
   KinesisElement
 } from 'vue-kinesis'
-import LogoText from '@/static/logo/logo.png'
-import LogoTextWhite from '@/static/logo/logo_white.png'
+import LogoText from '@/static/logo/logo_sak.png'
+import LogoTextWhite from '@/static/logo/logo_white_sak.png'
 
 export default {
   components: {
@@ -139,11 +139,11 @@ export default {
   data: () => ({
     loaded: false,
     descriptions: [
-      'Known as 綺麗花/Kireihana/ is an AMV Team from Indonesia.',
-      'as in Indonesia Means "Bunga yang indah"'
+      '桜/Sakura/ is an Editing team dedicated for creating inspiring Art.',
+      'Team Lead: Sakuratree ツ'
     ],
     descriptions2: [
-      'this team was created because the leader himself really like “Hanami Season” or “Cherry Blossom Viewing”,  The pops of pink mark the ending of winter and signify the beginning of spring. Due to their quick blooming season, cherry blossoms also symbolize the transience of life'
+      'AMVS | MMVS | Edits | Design | Art | Effects'
     ],
     socials: [
       {
