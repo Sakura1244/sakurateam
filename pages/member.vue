@@ -181,7 +181,7 @@ export default {
     }
   },
   head: {
-    title: 'KireiHana - Member'
+    title: 'Sakura Team - Member'
   }
 }
 </script>
