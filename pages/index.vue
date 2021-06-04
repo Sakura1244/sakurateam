@@ -145,7 +145,7 @@ export default {
     descriptions2: [
       'AMVS | MMVS | Edits | Design | Art | Effects'
     ],
-    socials: [
+    social: [
       {
         text: 'Youtube',
         icon: 'mdi-youtube',
