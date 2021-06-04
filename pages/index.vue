@@ -62,7 +62,7 @@
                     color="primary"
                     class="text ma-1 text-capitalize"
                     target="_blank"
-                    :href="https://www.youtube.com/channel/UCs2piDFpWHC4lMhgLx33Jzg"
+                    :href="social.link"
                   >
                     <v-icon
                       v-if="social.icon"
@@ -109,7 +109,7 @@
                 :disabled="social.disabled === 'TRUE'"
                 fab
                 color="primarydark"
-                :href="https://www.instagram.com/sakuratreelol/"
+                :href="social.link"
                 target="_blank"
                 link
               >
