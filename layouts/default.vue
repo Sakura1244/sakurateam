@@ -49,7 +49,7 @@ export default {
       isLoaded: false,
       appBar: false,
       logo: Logo,
-      title: 'KireiHana'
+      title: 'Sakuratree'
     }
   },
   computed: {
