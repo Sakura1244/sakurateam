@@ -62,7 +62,7 @@
                     color="primary"
                     class="text ma-1 text-capitalize"
                     target="_blank"
-                    :href="social.link"
+                    :href="https://www.youtube.com/channel/UCs2piDFpWHC4lMhgLx33Jzg"
                   >
                     <v-icon
                       v-if="social.icon"
@@ -109,7 +109,7 @@
                 :disabled="social.disabled === 'TRUE'"
                 fab
                 color="primarydark"
-                :href="social.link"
+                :href="https://www.instagram.com/sakuratreelol/"
                 target="_blank"
                 link
               >
@@ -145,7 +145,7 @@ export default {
     descriptions2: [
       'AMVS | MMVS | Edits | Design | Art | Effects'
     ],
-    social: [
+    socials: [
       {
         text: 'Youtube',
         icon: 'mdi-youtube',
