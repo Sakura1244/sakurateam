@@ -99,7 +99,7 @@
             >
               <v-icon>mdi-chevron-right</v-icon>
             </v-btn>
-            <template v-for="(social, index) in links">
+            <template v-for="(social, index) in socials">
               <v-btn
                 v-if="social.sidelink === 'TRUE' && social.visible === 'TRUE'"
                 :key="index"
