@@ -87,28 +87,28 @@ export default {
     logo: Logo,
     menu: [
       {
-        text: 'Member',
-        category: 'Team',
+        text: 'Sakura',
+        category: 'Members',
         link: 'member',
-        desc: 'Great people who have contributed to Kireihana Team'
+        desc: 'People who have contributed to the Team'
       },
       {
-        text: 'KireiHana',
+        text: 'Sakura',
         category: 'MEPS',
         link: 'project/mep',
-        desc: 'KireiHana Multi Editor Project'
+        desc: 'Sakura Multi Editor Projects'
       },
       {
-        text: 'Dedication',
-        category: 'Project',
+        text: 'Sakura',
+        category: 'Projects',
         link: 'project/dedication',
-        desc: 'Some of the projects we have made, hopefully inspired'
+        desc: 'Sakura dedications'
       },
       {
-        text: 'Collab',
-        category: 'Project',
+        text: 'Sakura',
+        category: 'Collabs',
         link: 'project/collab',
-        desc: 'Kireihana Collaboration Project'
+        desc: 'Sakura Collaboration Projects'
       }
     ],
     loaded: false
