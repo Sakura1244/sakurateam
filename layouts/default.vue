@@ -41,7 +41,7 @@
 </template>
 
 <script>
-import Logo from '@/static/logo/logo_flat.png'
+import Logo from '@/static/logo/logo_flat_sak.png'
 
 export default {
   data () {
