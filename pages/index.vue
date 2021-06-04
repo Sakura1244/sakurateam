@@ -149,17 +149,17 @@ export default {
       {
         text: 'Youtube',
         icon: 'mdi-youtube',
-        link: 'https://www.youtube.com/channel/UCuEH2lN3erODkq49-d7zXUA'
+        link: 'https://www.youtube.com/channel/UCs2piDFpWHC4lMhgLx33Jzg'
       },
       {
         text: 'Instagram',
         icon: 'mdi-instagram',
-        link: 'https://www.instagram.com/kireihanateam/'
+        link: 'https://www.instagram.com/sakuratreeloll.pvt/'
       },
       {
         text: 'Discord',
         icon: 'mdi-discord',
-        link: 'https://discord.gg/MkFsukEkhN'
+        link: 'https://discord.gg/eheKrTw3JB'
       }
     ]
   }),
