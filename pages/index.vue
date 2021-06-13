@@ -54,75 +54,7 @@
               </div>
               <div class="mt-8 mx-4">
                 <template v-for="(social, index) in links">
-                  <v-btn
-                    v-if="social.sidelink === 'FALSE' && social.visible === 'TRUE'"
-                    :key="index"
-                    depressed
-                    :disabled="social.disabled === 'TRUE'"
-                    color="primary"
-                    class="text ma-1 text-capitalize"
-                    target="_blank"
-                    :href="social.link"
-                  >
-                    <v-icon
-                      v-if="social.icon"
-                      left
-                      dark
-                    >
-                      {{ social.icon }}
-                    </v-icon>
-                    {{ social.text }}
-                  </v-btn>
-                </template>
-              </div>
-            </v-card-text>
-          </v-card>
-        </v-slide-y-reverse-transition>
-      </v-flex>
-      <v-flex xs12 sm12 md1 class="mt-2">
-        <v-slide-y-transition>
-          <v-layout
-            v-show="loaded"
-            class="flex-row flex-md-column"
-            justify-center
-            align-center
-            wrap
-          >
-            <v-btn
-              class="ma-2 white--text order-last order-md-first"
-              small
-              depressed
-              fab
-              color="primary"
-              nuxt
-              to="/menu"
-            >
-              <v-icon>mdi-chevron-right</v-icon>
-            </v-btn>
-            <template v-for="(social, index) in socials">
-              <v-btn
-                v-if="social.sidelink === 'TRUE' && social.visible === 'TRUE'"
-                :key="index"
-                class="ma-2 white--text"
-                small
-                depressed
-                :disabled="social.disabled === 'TRUE'"
-                fab
-                color="primarydark"
-                :href="social.link"
-                target="_blank"
-                link
-              >
-                <v-icon>{{ social.icon }}</v-icon>
-              </v-btn>
-            </template>
-          </v-layout>
-        </v-slide-y-transition>
-      </v-flex>
-    </v-layout>
-  </v-container>
 </template>
-
 <script>
 import {
   KinesisContainer,
