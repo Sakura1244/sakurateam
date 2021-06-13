@@ -54,6 +54,28 @@
               </div>
               <div class="mt-8 mx-4">
                 <template v-for="(social, index) in links">
+                               
+                </template>
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-slide-y-reverse-transition>
+      </v-flex>
+      <v-flex xs12 sm12 md1 class="mt-2">
+        <v-slide-y-transition>
+          <v-layout
+            v-show="loaded"
+            class="flex-row flex-md-column"
+            justify-center
+            align-center
+            wrap
+          >
+            </template>
+          </v-layout>
+        </v-slide-y-transition>
+      </v-flex>
+    </v-layout>
+  </v-container>
 </template>
 <script>
 import {
