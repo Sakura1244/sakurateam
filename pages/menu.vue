@@ -11,16 +11,7 @@
             wrap
             class="ma-2"
           >
-            <v-btn
-              small
-              depressed
-              fab
-              color="primary"
-              nuxt
-              to="/"
-            >
-              <v-icon>mdi-chevron-left</v-icon>
-            </v-btn>
+         
           </v-layout>
         </v-slide-y-transition>
       </v-flex>
