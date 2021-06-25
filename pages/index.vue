@@ -52,9 +52,9 @@
                 </p>
                 <p>AMVS | MMVS | Edits | Design | Art | Effects</p>
                 <p class=" blue--text ">Youtube: https://www.youtube.com/channel/UCXpJ7nHpU89__ybywv34rXg/featured </p>
-                <p>Instagram:</p> 
-                <p>https://www.instagram.com/sakura.editors/ </p>
-                <p>RECRUITMENT FROM: </p>
+                <p class=" blue--text ">Instagram:</p> 
+                <p class=" blue--text ">https://www.instagram.com/sakura.editors/ </p>
+                <p class=" pink--text ">RECRUITMENT FROM: </p>
               </div>
               <div class="mt-8 mx-4">
                 <template v-for="(social, index) in links">
