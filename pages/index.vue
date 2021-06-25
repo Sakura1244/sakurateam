@@ -51,6 +51,9 @@
                   Team Lead: Sakuratree ツ
                 </p>
                 <p>AMVS | MMVS | Edits | Design | Art | Effects</p>
+                <p>Youtube: https://www.youtube.com/channel/UCXpJ7nHpU89__ybywv34rXg/featured </p>
+                <p>Instagram: https://www.instagram.com/sakura.editors/ </p>
+                <p>RECRUITMENT FROM: </p>
               </div>
               <div class="mt-8 mx-4">
                 <template v-for="(social, index) in links">
