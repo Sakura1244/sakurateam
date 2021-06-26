@@ -48,12 +48,13 @@
                 <p>
                   桜/Sakura/ is an Editing team dedicated for creating inspiring Art.
                   <br>
-                  Team Lead: Sakuratree ツ
+                  ✿ Team Lead: Sakuratree ツ
                 </p>
                 <p>AMVS | MMVS | Edits | Design | Art | Effects</p>
-                <p class=" blue--text ">Youtube: https://www.youtube.com/channel/UCXpJ7nHpU89__ybywv34rXg/featured </p>
-                <p class=" blue--text ">Instagram: https://www.instagram.com/sakura.editors/</p> 
-                <p class=" pink--text ">RECRUITMENT FROM: </p>
+                <p class=" blue--text ">❀ Youtube: https://www.youtube.com/channel/UCXpJ7nHpU89__ybywv34rXg/featured </p>
+                <p class=" blue--text ">❀ Instagram: https://www.instagram.com/sakura.editors/</p> 
+                <p class=" pink--text ">❀ RECRUITMENT FROM: https://forms.gle/kFLUzgpYkuhaRhdi9 </p>
+                <p class=" pink--text ">❀ FAQ: https://bit.ly/35Y4dfS </p>
               </div>
               <div class="mt-8 mx-4">
                 <template v-for="(social, index) in links">
