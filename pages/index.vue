@@ -46,7 +46,7 @@
             <v-card-text class="text-center text-md-left">
               <div class="text-container px-2 px-md-6">
                 <p>
-                  桜/Sakura/ is an Editing team dedicated for creating inspiring Art.
+                  桜/Sakura/ is an editing team dedicated for creating inspiring Art.
                   <br>
                   ✿ Team Lead: Sakuratree ツ
                 </p>
