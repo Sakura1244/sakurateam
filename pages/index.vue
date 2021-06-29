@@ -1,4 +1,5 @@
 <template>
+<title>Sakura Editors</title>
   <v-container grid-list-xs class="my-4">
     <v-layout row justify-center align-center wrap>
       <v-flex xs5 sm4 md4>
